@@ -1,0 +1,25 @@
+<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- LEFT LOGO PART -->
+  <g id="CraneLogo">
+    <!-- Crane Boom -->
+    <path d="M50 30L85 85" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="75" cy="70" r="4" fill="currentColor"/>
+    <path d="M50 30L50 70" stroke="currentColor" stroke-width="2"/>
+    <path d="M48 70C48 73 52 73 52 70" stroke="#2FA84F" stroke-width="2" fill="none"/>
+    
+    <!-- J-E-O Text -->
+    <text x="20" y="105" font-family="Arial, sans-serif" font-weight="900" font-size="36" fill="currentColor">J</text>
+    <text x="42" y="105" font-family="Arial, sans-serif" font-weight="900" font-size="36" fill="#2FA84F">E</text>
+    <text x="68" y="105" font-family="Arial, sans-serif" font-weight="900" font-size="36" fill="currentColor">O</text>
+  </g>
+
+  <!-- SEPARATOR -->
+  <line x1="110" y1="25" x2="110" y2="105" stroke="#2FA84F" stroke-width="2" opacity="0.5"/>
+
+  <!-- RIGHT TEXT PART -->
+  <g id="BrandText">
+    <text x="130" y="65" font-family="Arial, sans-serif" font-weight="900" font-size="44" fill="currentColor" font-style="italic" letter-spacing="-1">JEO CRANES</text>
+    <path d="M130 80H450" stroke="#2FA84F" stroke-width="2"/>
+    <text x="130" y="102" font-family="Arial, sans-serif" font-weight="700" font-size="16" fill="currentColor" letter-spacing="4">TRANSPORT COMPANY LLC</text>
+  </g>
+</svg>
